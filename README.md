@@ -16,19 +16,22 @@ PTDAlertViewControllerはアラートダイアログをシンプルなコード�
   After a certain number of seconds have elapsed, a message dialog will be displayed which closes automatically. You can also specify the number of seconds to close.  
   And, by tapping outside of the message dialog, the user can erase the dialog immediately.  
   ある秒数が経過したら自動的に閉じるメッセージダイアログを表示します。閉じる秒数は指定することもできます。
-  メッセージダイアログの外をタップすることによって、ダイアログを消去することができます。
+  メッセージダイアログの外をタップすることによって、ダイアログを消去することができます。  
+  ![sample image001](https://raw.githubusercontent.com/pontake-dev/PTDAlertViewController/image/PTDAlertViewController_screenshot_001.png)
 
 - Message dialogue display that displays one button.  
 ボタンを1つだけ表示させるメッセージダイアログ表示。
 
   You can detect that you tapped the dialog button with a closure.  
-  ダイアログのボタンをタップした事をクロージャで取得できます。
+  ダイアログのボタンをタップした事をクロージャで取得できます。    
+  ![sample image001](https://raw.githubusercontent.com/pontake-dev/PTDAlertViewController/image/PTDAlertViewController_screenshot_002.png)
 
 - Message dialogue display to display two buttons.  
 ボタンを2つ表示させるメッセージダイアログ表示。
 
   You can detect that you tapped the dialog button with a closure.  
-  ダイアログのボタンをタップした事をクロージャで取得できます。
+  ダイアログのボタンをタップした事をクロージャで取得できます。  
+  ![sample image001](https://raw.githubusercontent.com/pontake-dev/PTDAlertViewController/image/PTDAlertViewController_screenshot_003.png)
 
 ## Example Usages
 
